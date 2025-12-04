@@ -1,0 +1,5 @@
+{
+  "name": "ZapLink Generator",
+  "description": "Gerador de links e QR Codes para WhatsApp com interface moderna e personalizável.",
+  "requestFramePermissions": []
+}
